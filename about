@@ -1,0 +1,21 @@
+What is this all about?
+
+This is a plugin for xbar. Now, what is xbar? Please check it by yourself here: https://github.com/matryer/xbar
+
+This plugin lets you enter as much website urls as you like and checks them for availability.
+This means it doesn't just ping the url but it gets the header of the http telegram and wnats to get a return code 200
+which means that the browser could show some content. If anything else than a return code 200 is comming back
+the website is not available. 
+
+The plugin show a green LED is the site is up and running and a red one if not.
+
+The LED in the menubar shows a summary of all checked websites:
+
+green: if all checked websites are up
+organge: if one or some are up and minimum one is not
+red: if all chekced urls are down
+
+CHeck it out, have fun, report errors and feel free to edit for yourself.
+
+
+greetz
