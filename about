@@ -1,6 +1,6 @@
 What is this all about?
 
-This is a plugin for xbar. Now, what is xbar? Please check it by yourself here: https://github.com/matryer/xbar
+This is a plugin for xbar. Now, what is xbar? Please check it by yourself here: [https://github.com/matryer/xbar](https://github.com/matryer/xbar)
 
 This plugin lets you enter as much website urls as you like and checks them for availability.
 This means it doesn't just ping the url but it gets the header of the http telegram and wnats to get a return code 200
